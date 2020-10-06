@@ -41,7 +41,7 @@ nav{
 }
 .sider{
 background-color: rgb(7, 63, 7);
-height:500px;
+height:730px;
 width:250px ;
 display: inline-block;
 }
@@ -69,5 +69,50 @@ display: inline-block;
 .haider{
     position: absolute;
     top: 210px;
-    bottom:0;
+   
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    position: absolute;
+    top: 250px;
+  }
+  
+   th, td {
+     padding: 20px; 
+  } 
+  table, td {  
+    border: 3px solid rgb(250, 248, 248);
+    text-align: center;
+    /* padding: 10px; */
+  }
+  th{
+    background-image: linear-gradient(to bottom right, rgb(109, 167, 1), yellow);
+
+  }
+ table{ 
+    height: 50px;
+    width:700px ;
+    
+} 
+/* .ch{
+    padding-right: 150px;
+}
+   */
+table{
+    margin-left: 200px;
+}
+td{
+    background-color: rgb(184, 241, 169);
+    padding:20px;
+}
+.ad{
+    text-align: left;
+}
+tr{
+    font-size: 15px;
+}
+th{
+    border-radius: 10px 10px 0px 0px;
 }
