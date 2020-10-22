@@ -3,4 +3,11 @@
  <p><a href="https://www.facebook.com/" target="apna" >iframe</a></p>
  <a href="#po">para 1</a>
  
+ #you can use type key word with A,a,1,rooman to use in orderlist
+ <ol type="I">
+	 <li>haider</li>
+	 <li>madad</li>
+	 <li>ya alli</li>
+ </ol>
+ 
  
