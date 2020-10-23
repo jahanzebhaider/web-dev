@@ -10,4 +10,7 @@
 	 <li>ya alli</li>
  </ol>
  
+ #outline tag add another border like structure beside the content
+ outline: #4CAF50 solid 10px;
+ 
  
